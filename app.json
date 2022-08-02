@@ -1,9 +1,9 @@
 {
-  "name": "Zim Bot Inc",
+  "name": "VihangaBot MD V2",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v2",
+  "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
   "logo": "",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "VIHANGAMDV2", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
