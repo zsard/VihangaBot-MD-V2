@@ -1,7 +1,7 @@
 # VIHANGA-BOT-MD
 #### TOTAL REPO VIEWS📍
 
-## Thanks To : [`ZimBot`] (https://github.com/zim-bot/zimbot-v4)
+## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
