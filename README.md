@@ -1,6 +1,8 @@
 # VIHANGA-BOT-MD
 #### TOTAL REPO VIEWS📍
 
+## Thanks To : [`ZimBot`] (https://github.com/zim-bot/zimbot-v4)
+
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
