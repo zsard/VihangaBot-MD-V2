@@ -18,11 +18,11 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94762898541'
+global.REACT_NUMBER = '9476342733'
 
 // Other
-global.owner = ['94763427338','']
-global.premium = ['27634090203','918188019676']
+global.owner = ['9476342733','']
+global.premium = ['9476342733','9476342733']
 global.botname = 'VIHANGA BOT INC'
 global.ownername = 'Vihanga MD'
 global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
