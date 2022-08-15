@@ -1,7 +1,7 @@
 {
-  "name": "ZIM-MD",
-  "version": "1.2.3",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "name": "VihangaBot-MD",
+  "version": "2.0,1",
+  "description": "WhatsApp Using Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -21,10 +21,10 @@
   "author": "Drips.",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@bochilteam/scraper": "^2.0.0",
     "awesome-phonenumber": "^2.64.0",
+    "@bochilteam/scraper": "^2.0.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
@@ -74,10 +74,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zim-bot/zimbot-v3.git"
+    "url": "git+https://github.com/vihangayt0/VihangaBot-MD-V2.git"
   },
   "bugs": {
-    "url": "https://github.com/zim-bot/zimbot-v3/issues"
+    "url": "https://github.com/vihangayt0/VihangaBot-MD-V2/issues"
   },
-  "homepage": "https://github.com/zim-bot/zimbot-v3#readme"
+  "homepage": "https://github.com/vihangayt0/VihangaBot-MD-V2#readme"
 }
