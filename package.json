@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Drips.",
+  "author": "vihangayt.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
